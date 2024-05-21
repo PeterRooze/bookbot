@@ -30,7 +30,7 @@ def num_chars(text):
 
 def amount_char_overview(chars):
     sorted_items = sorted(chars.items(), key=lambda item: item[1], reverse=True)
-    print(f"--- Begin report of {book}] ---")    
+    print(f"--- Begin report of {book} ---")    
     for letter, amount in sorted_items:
         if letter.isalpha():
             print(f"The {letter} was found {amount} times")
