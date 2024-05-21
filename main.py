@@ -10,6 +10,7 @@ def main():
  #   print(f"Amount of chars: {number_chars}")
     amount_char_overview(number_chars)
     print("--- End report ---")
+
 def count_words(text):
     words = text.split()
     return len(words)
