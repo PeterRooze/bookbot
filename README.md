@@ -5,8 +5,8 @@ BookBot has a few functions for parsing text.
 example output:
 
 ```
-Total number of words found: 77986
 --- Begin report of books/frankenstein.txt ---
+Total number of words found: 77986
 The e was found 46043 times
 The t was found 30365 times
 The a was found 26743 times
